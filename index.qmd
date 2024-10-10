@@ -1,19 +1,27 @@
 ---
-title: "About Me"
+title: "About My Cat, Buddy"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: /BuddyinaBox.jpg
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+-   Finally catch those pesky raccoons.
+
+-   Sit in every box in the whole wide world.
+
+-   Take a nap without being woken up by the kitten.
 
 ## Education
 
+-   This man has never read a book in his life.
+
 ## Experience
 
+-   Absolutely none, please do not hire my cat for any job. He is not qualified, no matter what he tells you!
 :::
 
 Thanks for checking out my web site!
